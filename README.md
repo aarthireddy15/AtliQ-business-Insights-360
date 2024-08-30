@@ -65,7 +65,12 @@ but,GrossMargin% is not meeting the targets.
 ### ProjectOutcome:-
 1)The overall analysis of the MarketShare of various companies helps to make insighful Decisions.  
 
-2)Where we have created revenue contribution by Division,channel,Subzone & Countries generating high revenue as well as revenue contribution by various products.
+2)Where we have created revenue contribution by Division,channel,Subzone & Countries generating high revenue as well as revenue contribution by various products.  
+
+## Conclusion:-  
+This Dashboard answers many Business related Queries based on different scenarios.  
+
+Data driven Decisions helps to make AtliQ informed decisions in the coming years so as to increase the profits.
 
 
 
