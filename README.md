@@ -7,7 +7,7 @@ So that they can have a better perception of the business.
 
 Below are the objective & Outcome of the project listed below:
 
-### Live Dashboard Link:https://app.powerbi.com/groups/9f382e79-aa2d-443c-8977-3ca94c0e04db/reports/7d7afb94-ae38-4042-8958-810a9eb6e57b/ReportSection0e765c0061580b067c73?experience=power-bi
+### Live Dashboard Link:https://app.powerbi.com/reportEmbed?reportId=7d7afb94-ae38-4042-8958-810a9eb6e57b&autoAuth=true&ctid=b1b6682a-45d9-494f-b45d-1b81a7b32868
 
 ## Finance view
 ### Objective:-
